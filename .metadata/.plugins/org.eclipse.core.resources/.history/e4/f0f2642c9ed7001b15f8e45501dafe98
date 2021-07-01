@@ -1,0 +1,7 @@
+#ifndef CONTROLADOR_LIBRERIA_H_
+#define CONTROLADOR_LIBRERIA_H_
+
+int controller_loadFromText(char* path , LinkedList* pArrayListaLibros);
+int controller_ListLibrary(LinkedList* pArrayListaLibros);
+
+#endif /* CONTROLADOR_LIBRERIA_H_ */

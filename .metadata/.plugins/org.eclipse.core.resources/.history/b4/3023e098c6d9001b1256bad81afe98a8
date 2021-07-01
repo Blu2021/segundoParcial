@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	int i;
+	char caracteres[5];
+
+	for(i=0;i<5;i++)
+	{
+		*(caracteres+i)=10;
+	}
+
+	return 0;
+}
+
+

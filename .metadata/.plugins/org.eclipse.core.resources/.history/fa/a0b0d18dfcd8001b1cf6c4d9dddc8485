@@ -1,0 +1,31 @@
+id,titulo,autor,precio,editorialId
+12,El mago de Oz,baum frank,300.00,PENGUIN BOOKS
+22,Alicia En El Pais De Las Maravillas,carroll lewis,300.00,PENGUIN BOOKS
+6,Las aventuras de pinocho,collodi carlo,300.00,PENGUIN BOOKS
+3,Como programar en Java,deitel & deitel,1000.00,PEARSON
+9,Como programar en C++,deitel & deitel,1000.00,PEARSON
+8,Matematica... ¿estas ahi? Episodio 2,paenza,121.50,SIGLO XXI EDITORES
+14,Matematica... ¿estas ahi? Episodio 3.14,paenza,350.00,SIGLO XXI EDITORES
+2,Matematica... ¿estas ahi?,paenza,350.00,SIGLO XXI EDITORES
+13,La vida por la patria,pigna,250.00,PLANETA
+7,La voz del gran jefe,pigna,320.00,PLANETA
+18,Libertadores de America,pigna,320.00,PLANETA
+19,Matematica... ¿estas ahi? Episodio 100,pigna,121.50,SIGLO XXI EDITORES
+1,Manuel Belgrano,pigna,248.00,PLANETA
+23,Los mitos de la historia argentina 1,pigna,320.00,PLANETA
+25,Los mitos de la historia argentina 2,pigna,288.00,PLANETA
+27,Los mitos de la historia argentina 3,pigna,240.00,PLANETA
+29,Los mitos de la historia argentina 4,pigna,250.00,PLANETA
+30,Los mitos de la historia argentina 5,pigna,270.00,PLANETA
+24,Harry Potter y la Orden del Fenix,rowling,800.00,SALAMANDRA
+5,Harry Potter Y La Piedra Filosofal,rowling,800.00,SALAMANDRA
+26,Harry Potter y el misterio del principe,rowling,800.00,SALAMANDRA
+21,Harry Potter y el cáliz de fuego,rowling,800.00,SALAMANDRA
+28,Harry Potter y las Reliquias de la Muerte,rowling,800.00,SALAMANDRA
+16,Harry Potter y el prisionero de Azkaban,rowling,800.00,SALAMANDRA
+11,Harry Potter y la camara secreta,rowling,800.00,SALAMANDRA
+17,Los Viajes De Gulliver,swift jonathan,300.00,PENGUIN BOOKS
+4,El señor de los anillos - La comunidad del anillo,tolkien,800.00,MINOTAURO
+20,El hobbit,tolkien,800.00,MINOTAURO
+10,El señor de los anillos - Las dos torres,tolkien,800.00,MINOTAURO
+15,El señor de los anillos - El retorno del rey,tolkien,800.00,MINOTAURO

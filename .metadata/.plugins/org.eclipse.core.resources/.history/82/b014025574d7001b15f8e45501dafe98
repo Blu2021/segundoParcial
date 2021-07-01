@@ -1,0 +1,22 @@
+#ifndef LIBROS_H_
+#define LIBROS_H_
+ eLibro:
+o id
+o titulo
+o autor
+o precio
+o editorialId
+Editoriales:
+1 - PLANETA
+2 - SIGLO XXI EDITORES
+3 - PEARSON
+4 - MINOTAURO
+5 - SALAMANDRA
+6 - PENGUIN BOOKS
+
+typedef struct
+{
+
+}eLibros;
+
+#endif /* LIBROS_H_ */

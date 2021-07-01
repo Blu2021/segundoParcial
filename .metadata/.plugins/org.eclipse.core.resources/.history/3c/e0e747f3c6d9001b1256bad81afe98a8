@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+int main(void)
+{
+	int i;
+	char caracteres[5][7];
+
+	for(i=0;i<5;i++)
+	{
+		*(caracteres+i)="String";
+		printf("Soy un array de caracteres %s\n",*(caracteres+i));
+	}
+
+	return 0;
+}
+
+

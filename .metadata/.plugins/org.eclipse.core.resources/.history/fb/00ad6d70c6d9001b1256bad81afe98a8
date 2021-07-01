@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	char cadenaCaracteres[5][128];
+
+	return 0;
+}
+
+

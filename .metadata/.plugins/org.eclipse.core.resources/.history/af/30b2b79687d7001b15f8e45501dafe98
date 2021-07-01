@@ -1,0 +1,6 @@
+#ifndef PARSER_LIBRERIA_H_
+#define PARSER_LIBRERIA_H_
+
+int parser_EmployeeFromText(FILE* pFile , LinkedList* pArrayListEmployee);
+
+#endif /* PARSER_LIBRERIA_H_ */

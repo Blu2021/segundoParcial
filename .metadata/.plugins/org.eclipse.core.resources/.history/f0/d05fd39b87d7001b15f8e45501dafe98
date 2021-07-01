@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int parser_EmployeeFromText(FILE* pFile , LinkedList* pArrayListEmployee)
+{
+	int exito=0;
+	char buffer[5][131];
+
+	fscanf(pFile,"%[^,],%[^,],%[^,],%[^\n]\n",*(buffer+0),*(buffer+1),*(buffer+2),*(buffer+3));
+
+	while(!feof(pFile))
+	{
+		Employee* punteroEmpleado=NULL;
+
+		fscanf(pFile,"%[^,],%[^,],%[^,],%[^\n]\n",*(buffer+0),*(buffer+1),*(buffer+2),*(buffer+3));
+
+		punteroEmpleado=employee_newParametros(*(buffer+0),*(buffer+1),*(buffer+2),*(buffer+3));
+		if(punteroEmpleado!=NULL)
+		{
+			ll_add(pArrayListEmployee,(Employee*)punteroEmpleado);
+			exito=1;
+		}
+	}
+    return exito;
+}
